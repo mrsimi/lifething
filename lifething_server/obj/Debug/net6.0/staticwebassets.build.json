@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lg86V2CmB370ZciKj5oU0YW3kLJ1z/NdcZ3ZpLhNLpU=",
+  "Source": "lifething_server",
+  "BasePath": "_content/lifething_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
